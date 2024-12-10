@@ -4,7 +4,7 @@ subheadline: ""
 title: "Public Humanities"
 teaser: ""
 header: no
-permalink: "/collections/day6/"
+permalink: "/collections/day7/"
 ---
 
 ## Before the Session  
