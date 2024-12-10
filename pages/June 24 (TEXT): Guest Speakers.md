@@ -1,3 +1,12 @@
+---
+layout: page
+subheadline: ""
+title: "Guest Speakers"
+teaser: ""
+header: no
+permalink: "/text/day11/"
+---
+
 # June 24 (TEXT): Guest Speakers
 
 ## Pre-work
