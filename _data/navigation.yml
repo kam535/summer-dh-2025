@@ -62,7 +62,7 @@
   side: left
   dropdown:
   - title: "Day 1"
-    url: "/text/day1/"
+    url: "/modules/day1/"
   - title: "Day 2"
     url: "/text/day2/"
   - title: "Day 3"
