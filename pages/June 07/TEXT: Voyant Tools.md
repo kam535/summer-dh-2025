@@ -1,3 +1,11 @@
+---
+layout: page
+subheadline: ""
+title: "Voyant Tools"
+teaser: ""
+header: no
+permalink: "/text/day5/"
+---
 
 ## Hour two (TEXT): Voyant Tools
 
