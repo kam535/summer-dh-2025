@@ -1,3 +1,12 @@
+---
+layout: page
+subheadline: ""
+title: "List of Projects"
+teaser: ""
+header: no
+permalink: "/resources/listofprojects/"
+---
+
 # Digital Collections, Exhibits, & Directories
 
 ### Large-Team & Funded Collections Projects
