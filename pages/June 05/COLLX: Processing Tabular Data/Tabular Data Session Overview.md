@@ -1,4 +1,13 @@
-# "Cleaning" and Processing Data and Metadata: Intro to OpenRefine  
+---
+layout: page
+subheadline: ""
+title: "'Cleaning' and Processing Data and Metadata"
+teaser: ""
+header: no
+permalink: "/collections/day3/"
+---
+
+# Intro to OpenRefine  
 
 ## Before the Session 
 
