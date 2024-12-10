@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 subheadline: ""
 title: "Distant Reading" and Corpus Curation"
 teaser: ""
