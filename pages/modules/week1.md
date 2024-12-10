@@ -1,13 +1,13 @@
 ---
 layout: page
 #
-# Content
+# 
 #
 subheadline: ""
-title: ""
+title: "Introduction to DH"
 teaser: ""
 meta_description:
-permalink:
+permalink: /modules/week1/
 categories:
     - 
 tags:
