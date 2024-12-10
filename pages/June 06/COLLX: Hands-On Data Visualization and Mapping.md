@@ -4,7 +4,7 @@ subheadline: ""
 title: "Hands-On Data Visualization and Mapping"
 teaser: ""
 header: no
-permalink: "/collections/day3/"
+permalink: "/collections/day4/"
 ---
 
 ## Before the Session  
