@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: ""
-title: "Distant Reading" and Corpus Curation"
+title: "Critical Data Visualization"
 teaser: ""
 header: no
 permalink: "/modules/day5/"
