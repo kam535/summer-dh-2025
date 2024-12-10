@@ -1,3 +1,21 @@
+---
+layout: page
+#
+#
+#
+subheadline: ""
+title: "Introduction to Metadata"
+teaser: ""
+#
+# Styling
+#
+header: no
+#
+# Metainformation & Customization
+#
+permalink: "/collections/week3-1/"
+---
+
 # ALL: Data As A Worldview. 
 
 ## Before the Session  
