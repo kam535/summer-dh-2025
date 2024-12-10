@@ -16,7 +16,7 @@ Email Eliza with any problems or questions.
 
 * **Read** the catalog entries for [Eastern Penitentiary Admission Book A](https://repository.upenn.edu/mead/22/) and [Eastern Peniterntiary Admission Book B](https://repository.upenn.edu/mead/21/) in *The Magazine of Early American Datasets .*
 
-* **Download the dataset Eastern_State_Admission_Book.csv**  
+* **Download the dataset [Eastern_State_Admission_Book.csv](https://github.com/kam535/sturdy-broccoli/blob/main/pages/June%2005/COLLX%3A%20Processing%20Tabular%20Data/Eastern_State_Admission_Book.csv)**  
 This dataset is a combination of the two datasets that you just read about.
   * Go to the folder for today's session and click on the link to Eastern_State_Admission_Book.csv. A page will open, and you'll see a preview of the data table.  
   * Toward the upper-right, you'll see a button that says "Raw." RIGHT-click it (or Control-Click on a Mac) and choose "Save Link As."  
