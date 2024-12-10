@@ -1,3 +1,12 @@
+---
+layout: page
+subheadline: ""
+title: "Midterm Presentations"
+teaser: ""
+header: no
+permalink: "/modules/day10/"
+---
+
 # Midterm Presentations
 * Date: Friday, June 21, 2024
 * Time: 10am-12pm
