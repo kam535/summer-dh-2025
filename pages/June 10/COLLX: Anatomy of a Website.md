@@ -1,3 +1,12 @@
+---
+layout: page
+subheadline: ""
+title: "Anatomy of a Website"
+teaser: ""
+header: no
+permalink: "/collections/day6/"
+---
+
 ## Before the Session  
 
 ### Reading  
