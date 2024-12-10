@@ -1,3 +1,11 @@
+---
+layout: page
+subheadline: ""
+title: "Data check-in"
+teaser: ""
+header: no
+permalink: "/text/day3/"
+---
 
 # Part two (TEXT): Data check-in
 
