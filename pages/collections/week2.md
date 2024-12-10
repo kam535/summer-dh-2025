@@ -1,4 +1,20 @@
-# Introduction to Metadata
+---
+layout: page
+#
+#
+#
+subheadline: ""
+title: "Introduction to Metadata"
+teaser: ""
+#
+# Styling
+#
+header: no
+#
+# Metainformation & Customization
+#
+permalink: "/collections/week2/"
+---
 
 ## Before the Session 
 
