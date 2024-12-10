@@ -15,6 +15,12 @@
   dropdown:
   - title: "Day 1"
     url: "/modules/day1/"
+    side: left
+    dropdown:
+      - title: "COLLX"
+        url: "/modules/day1/"
+      - title: "TEXT"
+        url: "/modules/day1/"
   - title: "Day 3"
     url: "/modules/day3/"
   - title: "Day 5"
