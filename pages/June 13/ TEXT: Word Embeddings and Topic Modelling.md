@@ -4,7 +4,7 @@ subheadline: ""
 title: "Word Embeddings and Topic Modeling"
 teaser: ""
 header: no
-permalink: "/text/day7/"
+permalink: "/text/day9/"
 ---
 
 ## TEXT: Word Embeddings and Topic Modeling
