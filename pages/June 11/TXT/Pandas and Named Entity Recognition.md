@@ -1,3 +1,12 @@
+---
+layout: page
+subheadline: ""
+title: "Pandas and Named Entity Recognition"
+teaser: ""
+header: no
+permalink: "/text/day7/"
+---
+
 # June 11
 
 ## Before the session
