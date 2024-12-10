@@ -7,11 +7,11 @@
 layout: frontpage
 header:
   title: "Summer DH 2025"
-  image_fullwidth: colorful-header.png
+  image_fullwidth: colorful-comp-header.png
 widget1:
   title: "Collections Modules"
   url: 'http://kam535.github.io/sturdy-broccoli/collections/'
-  image: colorful-comp-header.jpg
+  image: colorful-header.jpg
   text: 'All of the lessons for the Collections group of fellows'
 widget2:
   title: "Text Modules"
