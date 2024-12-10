@@ -4,7 +4,7 @@ layout: page
 #
 #
 subheadline: ""
-title: "Introduction to Metadata"
+title: "Data As A Worldview"
 teaser: ""
 #
 # Styling
@@ -15,9 +15,6 @@ header: no
 #
 permalink: "/collections/week3-1/"
 ---
-
-# ALL: Data As A Worldview. 
-
 ## Before the Session  
 
 ##### Read  
