@@ -1,13 +1,11 @@
 ---
 layout: page
 subheadline: ""
-title: "Distant Reading" and Corpus Curation"
+title: "Data as a Worldview"
 teaser: ""
 header: no
 permalink: "/modules/day3/"
 ---
-
-# ALL: Data As A Worldview. 
 
 ## Before the Session  
 
