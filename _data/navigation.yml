@@ -3,7 +3,6 @@
   side: left
 
 - title: Resources
-  url: "/resources/"
   side: left
   dropdown:
   - title: "List of Projects"
