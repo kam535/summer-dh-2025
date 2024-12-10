@@ -40,7 +40,7 @@ permalink: /index.html
 #
 homepage: true
 ---
-\
+
 \
 # Program Schedule and Overview
 
