@@ -1,5 +1,11 @@
-
-## TEXT: Python and Word Counts
+---
+layout: page
+subheadline: ""
+title: "Python and Word Counts"
+teaser: ""
+header: no
+permalink: "/text/day2/"
+---
 
 ### Before the session
 
