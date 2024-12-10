@@ -1,3 +1,11 @@
+---
+layout: page
+subheadline: ""
+title: "Introduction to Metadata"
+teaser: ""
+header: no
+permalink: "/collections/day2/"
+---
 # Introduction to Metadata
 
 ## Before the Session 
