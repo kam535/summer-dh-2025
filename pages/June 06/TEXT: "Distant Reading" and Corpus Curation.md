@@ -1,6 +1,6 @@
 ---
 layout: 
-title: "Distant Reading and Corpus Curation"
+title: "'Distant Reading' and Corpus Curation"
 header: no
 permalink: "/text/day4/"
 ---
