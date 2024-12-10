@@ -1,3 +1,7 @@
+---
+permalink: /listofprojects/
+---
+
 # Digital Collections, Exhibits, & Directories
 
 ### Large-Team & Funded Collections Projects
