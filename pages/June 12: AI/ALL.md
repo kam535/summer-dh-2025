@@ -1,4 +1,11 @@
-# Artificial Intelligence
+---
+layout: page
+subheadline: ""
+title: "Artificial Intelligence"
+teaser: ""
+header: no
+permalink: "/modules/day6/"
+---
 
 ## Before the session:
 
