@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: page
 title: "'Distant Reading' and Corpus Curation"
 header: no
 permalink: "/text/day4/"
