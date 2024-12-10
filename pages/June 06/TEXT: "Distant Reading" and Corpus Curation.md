@@ -1,9 +1,9 @@
-----
+---
 layout: 
-title: "Distant Reading" and Corpus Curation"
+title: "Distant Reading and Corpus Curation"
 header: no
 permalink: "/text/day4/"
-----
+---
 
 ## Before the Session
 1. Complete all pre-work and Python lessons through SDH_Python_2
