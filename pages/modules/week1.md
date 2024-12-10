@@ -4,7 +4,7 @@ layout: page
 # 
 #
 subheadline: ""
-title: "Introduction to DH"
+title: "June 03: Introduction to DH"
 teaser: ""
 meta_description:
 permalink: /modules/week1/
@@ -13,8 +13,6 @@ categories:
 tags:
     - 
 ---
-# June 03: Introduction to DH
-
 ## Introductory Assignment (Before the Session)
 
 From the [list of projects](https://github.com/cornell-colab/2024-SummerDH/blob/main/Workshops/June%2003%3A%20Introduction%20to%20DH/List%20of%20Projects.md), choose one to three projects that interest you.  
