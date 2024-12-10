@@ -84,13 +84,6 @@
   - title: "Week 10"
     url: "/text/week10/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
 - title: "Search"
   url: "/search/"
   side: right
