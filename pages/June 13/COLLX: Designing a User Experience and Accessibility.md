@@ -4,7 +4,7 @@ subheadline: ""
 title: "Designing a User Experience"
 teaser: ""
 header: no
-permalink: "/collections/day8/"
+permalink: "/collections/day9/"
 ---
 
 ## Before the Session
