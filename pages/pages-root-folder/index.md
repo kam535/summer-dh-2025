@@ -40,8 +40,8 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-\
+<br>
+<br>
 # Program Schedule and Overview
 
 Welcome to Summer DH 2024! This page overviews details about the program and the [program schedule](https://github.com/cornell-colab/2024-SummerDH/blob/main/Program%20Schedule%20and%20Overview.md#schedule).
