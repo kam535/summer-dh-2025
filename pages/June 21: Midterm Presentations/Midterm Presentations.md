@@ -6,8 +6,6 @@ teaser: ""
 header: no
 permalink: "/modules/day10/"
 ---
-
-# Midterm Presentations
 * Date: Friday, June 21, 2024
 * Time: 10am-12pm
 * Room: Olin Library 703 (across the hall from the CoLab)
