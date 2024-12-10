@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "List of Projects"
-    url: "/pages/list of projects.md
+    url: "/pages/list of projects.md/"
 
 - title: "Modules"
   url: "/modules/"
