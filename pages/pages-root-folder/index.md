@@ -11,7 +11,7 @@ header:
 widget1:
   title: "Collections Modules"
   url: 'http://kam535.github.io/sturdy-broccoli/collections/'
-  image: colorful-header.jpg
+  image: colorful-comp-header.jpg
   text: 'All of the lessons for the Collections group of fellows'
 widget2:
   title: "Text Modules"
