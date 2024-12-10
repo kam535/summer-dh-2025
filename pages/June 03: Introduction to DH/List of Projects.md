@@ -4,7 +4,7 @@ subheadline: ""
 title: "List of Projects"
 teaser: ""
 header: no
-permalink: "/resources/listofprojects/"
+permalink: "/listofprojects/"
 ---
 
 # Digital Collections, Exhibits, & Directories
