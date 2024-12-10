@@ -6,7 +6,6 @@
 #
 layout: page
 header:
-  header:
     title: Summer DH 2025
     image_fullwidth: colorful-header.jpg
 permalink: /index.html
