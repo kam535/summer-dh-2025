@@ -28,6 +28,6 @@ Here's a list of every module in the course:
 - [Day 5: ALL](https://kam535.github.io/sturdy-broccoli/modules/day6)[Day 6: COLLX](https://kam535.github.io/sturdy-broccoli/collections/day6)[Day 6: TEXT](https://kam535.github.io/sturdy-broccoli/text/day6)
 - [Day 7: COLLX](https://kam535.github.io/sturdy-broccoli/collections/day7)[Day 7: TEXT](https://kam535.github.io/sturdy-broccoli/modules/day7)
 - [Day 8](https://kam535.github.io/sturdy-broccoli/modules/day8)
-- [Day 9: COLLX](https://kam535.github.io/sturdy-broccoli/collections/day9)[Day 9: TEXT](https://kam535.github.io/sturdy-broccoli/text/day9)
+- [Day 9: COLLX](https://kam535.github.io/sturdy-broccoli/collections/day9) | [Day 9: TEXT](https://kam535.github.io/sturdy-broccoli/text/day9)
 - [Day 10](https://kam535.github.io/sturdy-broccoli/modules/day10)
 - [Day 11: TEXT](https://kam535.github.io/sturdy-broccoli/text/day11)
