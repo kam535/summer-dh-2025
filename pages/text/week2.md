@@ -13,7 +13,7 @@ header: no
 #
 # Metainformation & Customization
 #
-permalink:
+permalink: "/text/week2/"
 ---
 ### Before the session
 
