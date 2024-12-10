@@ -4,7 +4,7 @@ layout: page
 #
 #
 subheadline: ""
-title: "TEXT: Python and Word Counts"
+title: "Python and Word Counts"
 teaser: ""
 #
 # Styling
