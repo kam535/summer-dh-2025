@@ -1,6 +1,20 @@
-
-## TEXT: Python and Word Counts
-
+---
+layout: page
+#
+#
+#
+subheadline: ""
+title: "TEXT: Python and Word Counts"
+teaser: ""
+#
+# Styling
+#
+header: no
+#
+# Metainformation & Customization
+#
+permalink:
+---
 ### Before the session
 
 #### 1. Install Python and JupyterLab
