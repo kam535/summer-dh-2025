@@ -1,3 +1,11 @@
+---
+layout: page
+subheadline: ""
+title: "Text analysis methods (and Andrea Wang!)"
+teaser: ""
+header: no
+permalink: "/modules/day6/"
+---
 
 # Hour two (TEXT): Text analysis methods (and Andrea Wang!)
 
