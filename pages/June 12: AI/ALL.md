@@ -4,7 +4,7 @@ subheadline: ""
 title: "Artificial Intelligence"
 teaser: ""
 header: no
-permalink: "/modules/day6/"
+permalink: "/modules/day8/"
 ---
 
 ## Before the session:
