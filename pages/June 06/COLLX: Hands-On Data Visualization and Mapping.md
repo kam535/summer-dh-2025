@@ -1,3 +1,12 @@
+---
+layout: page
+subheadline: ""
+title: "Hands-On Data Visualization and Mapping"
+teaser: ""
+header: no
+permalink: "/collections/day3/"
+---
+
 ## Before the Session  
 
 * **Reflect** on Wednesdays's session. Please respond to the June 4 prompt on the [Discussions](https://github.com/cornell-colab/2024-SummerDH/discussions) page.
