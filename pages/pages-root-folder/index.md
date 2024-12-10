@@ -6,7 +6,9 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: colorful-header.jpg
+  header:
+    title: Summer DH 2025
+    image_fullwidth: colorful-header.jpg
 widget1:
   title: "Collections Modules"
   url: 'http://kam535.github.io/sturdy-broccoli/collections/'
