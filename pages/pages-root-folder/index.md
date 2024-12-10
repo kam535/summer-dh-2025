@@ -13,11 +13,11 @@ widget1:
   image: colorful-header.jpg
   text: 'All of the lessons for the Collections group of fellows'
 widget2:
-  title: "Collections Modules"
+  title: "Text Modules"
   url: 'http://kam535.github.io/sturdy-broccoli/text/'
   image: colorful-header.jpg
   text: 'All of the lessons for the Text group of fellows'
-widet 3:
+widget3:
   title: "All Modules"
   url: 'http://kam535.github.io/sturdy-broccoli/modules/'
   image: colorful-header.jpg
