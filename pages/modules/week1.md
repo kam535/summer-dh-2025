@@ -1,8 +1,5 @@
 ---
 layout: page
-#
-# 
-#
 subheadline: ""
 title: "June 03: Introduction to DH"
 teaser: ""
@@ -10,12 +7,8 @@ meta_description:
 permalink: /modules/week1/
 categories:
 tags:
-image:
-    title: 
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+header:
+   image_fullwidth: "colorful-header.jpg"
 ---
 ## Introductory Assignment (Before the Session)
 
