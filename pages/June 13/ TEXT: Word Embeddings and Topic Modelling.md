@@ -1,3 +1,11 @@
+---
+layout: page
+subheadline: ""
+title: "Word Embeddings and Topic Modeling"
+teaser: ""
+header: no
+permalink: "/text/day7/"
+---
 
 ## TEXT: Word Embeddings and Topic Modeling
 
