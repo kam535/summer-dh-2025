@@ -9,9 +9,13 @@ teaser: ""
 meta_description:
 permalink: /modules/week1/
 categories:
-    - 
 tags:
-    - 
+image:
+    title: 
+    thumb:
+    homepage:
+    caption:
+    caption_url:
 ---
 ## Introductory Assignment (Before the Session)
 
