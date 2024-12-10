@@ -9,7 +9,7 @@
   - title: "List of Projects"
     url: "/listofprojects/"
 
-- title: "Modules"
+- title: "All"
   url: "/modules/"
   side: left
   dropdown:
