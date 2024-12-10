@@ -11,12 +11,12 @@ header:
 widget1:
   title: "Collections Modules"
   url: 'http://kam535.github.io/sturdy-broccoli/collections/'
-  image: colorful-header.jpg
+  image: collx.png
   text: 'All of the lessons for the Collections group of fellows'
 widget2:
   title: "Text Modules"
   url: 'http://kam535.github.io/sturdy-broccoli/text/'
-  image: colorful-header.jpg
+  image: comp-text.png
   text: 'All of the lessons for the Text group of fellows'
 widget3:
   title: "All Modules"
