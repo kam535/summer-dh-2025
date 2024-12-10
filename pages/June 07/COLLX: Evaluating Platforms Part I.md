@@ -1,3 +1,12 @@
+---
+layout: page
+subheadline: ""
+title: "Evaluating Platforms Part I"
+teaser: ""
+header: no
+permalink: "/collections/day5/"
+---
+
 ## Before the Session
 
 **Read** "[Ten Factors When Considering Tools](https://handsondataviz.org/tool-factors.html)" from _Data Visualization for All_ by Jack Doughtery and Ilya Ilankyou (2023). Though the authors' particular concerns are data visualization tools, the ten factors listed are a good checklist for other tools as well, such as platforms and content management systems.  
