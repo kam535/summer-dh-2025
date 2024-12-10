@@ -1,4 +1,11 @@
-# June 03: Introduction to DH
+---
+layout: page
+subheadline: ""
+title: "June 03: Introduction to DH"
+teaser: ""
+header: no
+permalink: "/modules/day1/"
+---
 
 ## Introductory Assignment (Before the Session)
 
