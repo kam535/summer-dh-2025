@@ -6,8 +6,10 @@ teaser: ""
 header: no
 permalink: "/collections/day3/"
 ---
+# Part 1:
+Read the [Data as a Worldview](https://kam535.github.io/sturdy-broccoli/modules/day3/) section.
 
-# Intro to OpenRefine  
+# Part 2: Intro to OpenRefine  
 
 ## Before the Session 
 
