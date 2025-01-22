@@ -1,4 +1,3 @@
----
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
@@ -10,17 +9,17 @@ header:
   image_fullwidth: colorful-comp-header.png
 widget1:
   title: "Collections Modules"
-  url: 'http://kam535.github.io/sturdy-broccoli/collections/'
+  url: 'http://kam535.github.io/summer-dh-2025/collections/'
   image: collx.png
   text: 'All of the lessons for the Collections group of fellows'
 widget2:
   title: "Text Modules"
-  url: 'http://kam535.github.io/sturdy-broccoli/text/'
+  url: 'http://kam535.github.io/summer-dh-2025/text/'
   image: comp-text.png
   text: 'All of the lessons for the Text group of fellows'
 widget3:
   title: "All Modules"
-  url: 'http://kam535.github.io/sturdy-broccoli/modules/'
+  url: 'http://kam535.github.io/summer-dh-2025/modules/'
   image: colorful-header.jpg
   text: 'All of the lessons for all fellows'
 #
