@@ -4,8 +4,10 @@ title: "About"
 meta_title: 
 subheadline: 
 teaser:
-permalink: "/contact/"
+permalink: "/about/"
 ---
+The Summer Graduate Fellowship in Digital Humanities (Summer DH) supports a small interdisciplinary cohort of Cornell Ph.D. students who together investigate approaches to digital scholarship through collaborative workshops, readings, discussion, and co-work on independent projects. The fellowship is a project of the Digital CoLab, sponsored by Cornell University Library and the Society for Humanities. To read more, see the [Summer DH webpage](https://www.library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/summer-dh/).
+
 ## People
 
 * **Eliza Bettinger** leads Olin Library's research and teaching services for digital scholarship in the humanities and related social sciences. Throughout the year, she collaborates with scholars and students on projects in mapping, visualization, text analysis, and digital exhibits and publishing. She also teaches students and consults with researchers across the university about issues related to digital privacy and surveillance and is a member of the Library Freedom Project. Uniting all her work is a concern for helping people make meaning from, and exercise control over, data, information, and narratives.  
@@ -27,5 +29,6 @@ permalink: "/contact/"
 * **Lindsay Thomas** is associate Professor of Literatures in English at Cornell University. Her research and teaching focus on the contemporary US literature, cultural studies, and the digital humanities. From 2017-2021, she was co-director of WhatEvery1Says, a multi-institutional public humanities project funded by the Mellon Foundation that used computational text analysis to examine public discourse on the value of the humanities on a large scale. She is currently working on a history of “solutions” to the problem of novelistic length since the mid-20th century.
 
 * **Matthew Wilkens** is associate professor of Information Science at Cornell University. He uses quantitative and computational methods to study large-scale developments in literary and cultural history. His work has focused in particular on literary text mining, geolocation extraction, genre detection, and the cross-pollination of critical and social-scientific methods.
+
 ## Contact Us
 Need help or have questions? Feel free to contact your instructors individual or contact Iliana and Eliza at digitalcolab@cornell.edu.
