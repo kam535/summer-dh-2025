@@ -16,7 +16,7 @@ widget2:
 widget3:
   title: "All Modules"
   url: 'http://kam535.github.io/summer-dh-2025/modules/'
-  image: colorful-header.jpg
+  image: books-laptops.jpg
   text: 'All of the lessons for all fellows'
 permalink: /index.html
 homepage: true
