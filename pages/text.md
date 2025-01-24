@@ -1,12 +1,11 @@
 ---
 layout: page
 subheadline: ""
-title: "Guest Speakers"
+title: "Text Modules"
 teaser: ""
 header: no
 permalink: "/text/"
 ---
-### TEXT Modules
 Here's a list of every module in the TEXT subcohort:
 - [Day 1](https://kam535.github.io/summer-dh-2025/modules/day1)
 - [Day 2](https://kam535.github.io/summer-dh-2025/text/day2)
