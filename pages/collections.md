@@ -1,12 +1,11 @@
 ---
 layout: page
 subheadline: ""
-title: "Guest Speakers"
+title: "Collections Modules"
 teaser: ""
 header: no
 permalink: "/collections/"
 ---
-### Collections Modules
 Here's a list of every module in the collections subcohort:
 - [Day 1](https://kam535.github.io/summer-dh-2025/modules/day1)
 - [Day 2](https://kam535.github.io/summer-dh-2025/collections/day2)
