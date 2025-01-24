@@ -7,7 +7,7 @@ header: no
 permalink: "/listofprojects/"
 ---
 
-# Digital Collections, Exhibits, & Directories
+## Digital Collections, Exhibits, & Directories
 
 ### Large-Team & Funded Collections Projects
 * **[Colored Conventions Project](https://coloredconventions.org/)**  
@@ -86,7 +86,7 @@ An Experimental Archive, Co-Working Space, & Production Studio invested in devel
 **Wordpress** + Embedded **Carto**
   
   
-# Computational Text Analysis
+## Computational Text Analysis
 
 * [The Goodreads "Classics": A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)  
 Melanie Walsh & Maria Antoniak  
