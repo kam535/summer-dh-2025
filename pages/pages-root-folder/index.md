@@ -2,7 +2,7 @@
 layout: frontpage
 header:
   title: ""
-  image_fullwidth: logo.jpg
+  image_fullwidth: logo2.png
 widget1:
   title: "Collections Modules"
   url: 'http://kam535.github.io/summer-dh-2025/collections/'
