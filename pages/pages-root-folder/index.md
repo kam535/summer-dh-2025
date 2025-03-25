@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 header:
-  title: "Summer DH 2025"
-  image_fullwidth: summer-computers.jpg
+  title: ""
+  image_fullwidth: logo.jpg
 widget1:
   title: "Collections Modules"
   url: 'http://kam535.github.io/summer-dh-2025/collections/'
