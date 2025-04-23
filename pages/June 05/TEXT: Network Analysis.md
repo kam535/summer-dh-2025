@@ -2,5 +2,5 @@
 layout: page
 title: "Network Analysis and Pandas"
 header: no
-permalink: "/text/day4/"
+permalink: "/text/day4/1"
 ---
