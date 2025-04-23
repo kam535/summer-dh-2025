@@ -14,6 +14,12 @@
   dropdown:
   - title: "June 02"
     url: "/modules/day1/"
+    dropdown:
+      - title: "Thing 1"
+        url: "/modules/day1/"
+      - title: "Thing 2"
+        url: "/modules/day1/"
+      
   - title: "June 04"
     url: "/modules/day3/"
   - title: "June 06"
