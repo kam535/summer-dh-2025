@@ -14,12 +14,6 @@
   dropdown:
   - title: "June 02"
     url: "/modules/day1/"
-    side: left
-    dropdown:
-      - title: "COLLX"
-        url: "/modules/day1/"
-      - title: "TEXT"
-        url: "/modules/day1/"
   - title: "June 04"
     url: "/modules/day3/"
   - title: "June 06"
