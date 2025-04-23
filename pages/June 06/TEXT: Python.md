@@ -1,6 +1,7 @@
---
+---
 layout: page
 subheadline: "June 06, 2025"
 title: "Python Buffer"
-header: no
+header: false
+permalink:
 ---
