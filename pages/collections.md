@@ -6,7 +6,7 @@ teaser: ""
 header: no
 permalink: "/collections/"
 ---
-Here's a list of every module in the collections subcohort:
+Every module in the collections subcohort:
 
 | Week | Monday   | Tuesday | Wednesday | Thursday | Friday  |
 |-------|----------|--------|------------|---------|-------------|
