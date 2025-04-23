@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline: ""
-title: "June 02: Introduction to Data and DH"
+subheadline: "June 02, 2025"
+title: "Introduction to Data and DH"
 teaser: ""
 header: no
 permalink: "/modules/day1/"
