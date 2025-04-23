@@ -1,6 +1,6 @@
 # Program Schedule and Overview
 
-Welcome to Summer DH 2024! This page overviews details about the program and the [program schedule](https://github.com/cornell-colab/2024-SummerDH/blob/main/Program%20Schedule%20and%20Overview.md#schedule).
+Welcome to Summer DH 2025! This page overviews details about the program and the [program schedule](https://github.com/cornell-colab/2025-SummerDH/blob/main/Program%20Schedule%20and%20Overview.md#schedule).
 
 ## (Digital) places we'll spend time
 
@@ -26,12 +26,12 @@ The **Summer Digital Humanities Showcase (Thursday, July 11), 10am-3pm at the A.
 
 | Week | Monday   | Tuesday | Wednesday | Thursday | Friday  |
 |-------|----------|--------|------------|---------|-------------|
-| 1 | **June 3**: Intro to DH | **June 4**: Subcohort kickoff  | **June 5**: Data as a Worldview| **June 6**: Subcohort Sessions | **June 7**: Critcal Data Visualization                                   |
-| 2 | **June 10**: How the Internet Works | **June 11** Subcohort Sessions | **June 12**: A.I. | **June 13**: Subcohort Sessions and Indivdual Meetings | **June 14**: Individual Meetings                                            |
-| 3 | **June 17**: Coworking|  | | **June 20**: Coworking| **June 21**: Midterm Presentations                                           |
-| 4 | **June 24**: Coworking and (TEXT only) Guest Speakers |  |  | **June 27**: Coworking |                                         |
-| 5 | **July 1**: Coworking |  | **July 3**: Coworking | |                                         |
-| 6 | **July 8**: Coworking | **July 9**: Coworking | **July 10**: (Optional) Coworking | **July 11**: Summer DH Showcase |                                            |
+| 1 | **June 2**: Intro to Data and DH | **June 3**: Subcohort kickoff  | **June 4**: How the Internet Works / Subcohort sessions | **June 5**: Subcohort sessions | **June 9**: Copyright, Fair Use, and Scholarly Communications / Subcohort sessions |
+| 2 | **June 9**: Subcohort sessions | **June 10** Subcohort sessions | **June 11**: A.I. | **June 12**: Subcohort sessions | **June 13**: 1:1 meetings                                            |
+| 3 | **June 16**: Midterm Presentations |  | | **June 19**: Coworking| **June 20**: Coworking                                           |
+| 4 | **June 23**: Coworking |  |  | **June 26**: Coworking |                                         |
+| 5 | **June 30**: Coworking |  | **July 2**: Coworking | |                                         |
+| 6 | **July 7**: Coworking | **July 8**: Coworking | **July 9**: (Optional) Coworking | **July 10**: Summer DH Showcase |                                            |
 
 
 ## People
@@ -46,16 +46,6 @@ The **Summer Digital Humanities Showcase (Thursday, July 11), 10am-3pm at the A.
 
 * **Andrea Wang** is a PhD student of Information Science at Cornell University. Her research is in studying NLP for multilingual and social science research. She is especially interested in NLP for Asian languages and legal studies. Prior to joining Cornell, she had multiple experiences in data collections and engineering, including the Jail Data Initiatives and with civic-tech community in Taiwan. Andrea supports text analysis instruction for Summer DH.
 
-* **Jesi Buell** is the Manager of Library Applications Development in CUL-IT.  She has previously worked as Instructional Design and Web Librarian, Associate Professor at Colgate University as well as a UX Designer at Merck Pharmaceuticals and in a freelance capacity.  She's interested in digital scholarship and how to create user-friendly and sustainable DH projects.
-
-* **Keith Jenkins** is the GIS/Geospatial Applications Librarian at Mann Library, where he helps students, staff, and faculty to find geospatial data and to use GIS (geographic information systems) software for mapping or analysis. He also manages CUGIR, the Cornell University Geospatial Information Repository. 
-
-* **David Mimno** is an associate professor and chair of the department of Information Science at Cornell University. He holds a PhD from UMass Amherst and was previously the head programmer at the Perseus Project at Tufts and a researcher at Princeton University. His work has been supported by the Sloan foundation, the NEH, and the NSF. 
-
-* **Lindsay Thomas** is associate Professor of Literatures in English at Cornell University. Her research and teaching focus on the contemporary US literature, cultural studies, and the digital humanities. From 2017-2021, she was co-director of WhatEvery1Says, a multi-institutional public humanities project funded by the Mellon Foundation that used computational text analysis to examine public discourse on the value of the humanities on a large scale. She is currently working on a history of “solutions” to the problem of novelistic length since the mid-20th century.
-
-* **Matthew Wilkens** is associate professor of Information Science at Cornell University. He uses quantitative and computational methods to study large-scale developments in literary and cultural history. His work has focused in particular on literary text mining, geolocation extraction, genre detection, and the cross-pollination of critical and social-scientific methods.
-
 ## A note on research logs
 We encourage you all to build the habit of keeping a research log as you work on your projects this summer (and beyond). Research logs are dedicated spaces for you to reflect on what you're learning, document your progress, record helpful resources and note questions and challenges. 
 
@@ -67,5 +57,5 @@ The following are general research log prompts that might help guide your thinki
   5. **Challenges:** What roadblocks are you encountering? Is anything confusing you? What do you feel uncertain about?
   6. **Questions:** What other questions or thoughts are you processing (if any)?
  
-We'll incorporate some of these prompts in our Github discussion space the first weeks of the fellowship, then emphasize them explicitly in week two. After that, you are welcome to use any other note-taking platform of your choosing(e.g., Microsoft OneNote, Google docs) to personally keep track of your process.
+  We'll incorporate some of these prompts in our Github discussion space the first weeks of the fellowship, then emphasize them explicitly in week two. After that, you are welcome to use any other note-taking platform of your choosing(e.g., Microsoft OneNote, Google docs) to personally keep track of your process.
 
