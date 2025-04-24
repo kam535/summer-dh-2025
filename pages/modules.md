@@ -6,19 +6,6 @@ teaser: ""
 header: no
 permalink: "/modules/"
 ---
-Here's a list of every module in the course:
-- [Day 1](https://kam535.github.io/summer-dh-2025/modules/day1)
-- [Day 2: COLLX](https://kam535.github.io/summer-dh-2025/collections/day2), [Day 2: TEXT](https://kam535.github.io/summer-dh-2025/text/day2)
-- [Day 3: ALL](https://kam535.github.io/summer-dh-2025/modules/day3), [Day 3: COLLX](https://kam535.github.io/summer-dh-2025/collections/day3), [Day 3: TEXT](https://kam535.github.io/summer-dh-2025/text/day3)
-- [Day 4: COLLX](https://kam535.github.io/summer-dh-2025/collections/day4), [Day 4: TEXT](https://kam535.github.io/summer-dh-2025/text/day5)
-- [Day 5: ALL](https://kam535.github.io/summer-dh-2025/modules/day5), [Day 5: COLLX](https://kam535.github.io/summer-dh-2025/collections/day5), [Day 5: TEXT](https://kam535.github.io/summer-dh-2025/text/day5)
-- [Day 5: ALL](https://kam535.github.io/summer-dh-2025/modules/day6), [Day 6: COLLX](https://kam535.github.io/summer-dh-2025/collections/day6), [Day 6: TEXT](https://kam535.github.io/summer-dh-2025/text/day6)
-- [Day 7: COLLX](https://kam535.github.io/summer-dh-2025/collections/day7), [Day 7: TEXT](https://kam535.github.io/summer-dh-2025/modules/day7)
-- [Day 8](https://kam535.github.io/summer-dh-2025/modules/day8)
-- [Day 9: COLLX](https://kam535.github.io/summer-dh-2025/collections/day9), [Day 9: TEXT](https://kam535.github.io/summer-dh-2025/text/day9)
-- [Day 10](https://kam535.github.io/summer-dh-2025/modules/day10)
-- [Day 11: TEXT](https://kam535.github.io/summer-dh-2025/text/day11)
-
 ### Program Calendar
 
 | Week | Monday   | Tuesday | Wednesday | Thursday | Friday  |
