@@ -19,7 +19,7 @@ Here's a list of every module in the TEXT subcohort:
 
 - [June 2](https://kam535.github.io/summer-dh-2025/modules/day1)
 - [June 3](https://kam535.github.io/summer-dh-2025/text/day2)
-- [June 4]: ALL](https://kam535.github.io/summer-dh-2025/modules/day3), [June 4: TEXT](https://kam535.github.io/summer-dh-2025/text/day3)
+- [June 4: ALL](https://kam535.github.io/summer-dh-2025/modules/day3), [June 4: TEXT](https://kam535.github.io/summer-dh-2025/text/day3)
 - [June 5](https://kam535.github.io/summer-dh-2025/text/day5)
 - [June 6: ALL](https://kam535.github.io/summer-dh-2025/modules/day5), [June 6: TEXT](https://kam535.github.io/summer-dh-2025/text/day5)
 - [June 9: ALL](https://kam535.github.io/summer-dh-2025/modules/day6)
