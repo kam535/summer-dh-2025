@@ -18,9 +18,9 @@ While some workshops will take place with the full group, many will take place w
 
 Co-working sessions are time to work on projects individually in each other’s presence or in small groups, to ask questions, and to generate conversation, as appropriate.  All co-working sessions will be held as a full group. 
 
-During the **mid-program presentations (Friday, June 21)**, each Fellow will informally present on their project intentions during the following three weeks. Reflect on what you'd like to accomplish by the end of the summer as well as any challenges you anticipate (and strategies for navigating those challenges). You can also ask the group questions if you'd like feedback or ideas. Plan to share for about 8-10 minutes, then receive feedback or questions for 5-7 minutes. 
+During the **mid-program presentations (Monday, June 16)**, each Fellow will informally present on their project intentions during the following three weeks. Reflect on what you'd like to accomplish by the end of the summer as well as any challenges you anticipate (and strategies for navigating those challenges). You can also ask the group questions if you'd like feedback or ideas. Plan to share for about 8-10 minutes, then receive feedback or questions for 5-7 minutes. 
 
-The **Summer Digital Humanities Showcase (Thursday, July 11), 10am-3pm at the A.D. White House** will be the final event of the Summer DH program. During the event, you will each share out reflections on the progress you've made in your projects, as well as your key takeaways from the summer. This year, we plan to have these presentations in a panel format according to the two cohorts. We will provide lunch and refreshments this day. Please feel free to invite colleagues and friends!
+The **Summer Digital Humanities Showcase (Thursday, July 10), 10am-3pm at the A.D. White House** will be the final event of the Summer DH program. During the event, you will each share out reflections on the progress you've made in your projects, as well as your key takeaways from the summer. This year, we plan to have these presentations in a panel format according to the two cohorts. We will provide lunch and refreshments this day. Please feel free to invite colleagues and friends!
 
 ### Program Calendar
 
