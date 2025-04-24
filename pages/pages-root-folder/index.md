@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  title: "Summer DH Fellowship 2025"
+  title: "**Summer DH 2025**"
   image_fullwidth: logo2.png
 widget1:
   title: "Collections Modules"
