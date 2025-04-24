@@ -19,7 +19,10 @@ Every module in the collections subcohort:
 
 
 - [June 2](https://kam535.github.io/summer-dh-2025/modules/day1)
+  - Pre-readings: Davis, H. (2019). "[A Dataset is a Worldview,](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)" a blog post on Towards Data Science, a Medium vertical.  
 - [June 3](https://kam535.github.io/summer-dh-2025/collections/day2)
+  - Pre-readings: Chapter 1 in Metadata: Shaping Knowledge from Antiquity to the Semantic Web by Richard Gartner; [Ontology Introduction](https://foodon.org/design/ontology-introduction/) from the FoodOn site
+  - Pre-activity: Bring one or two hats or headwear to the next session.
 - [June 4: ALL](https://kam535.github.io/summer-dh-2025/modules/day3), [June 4: COLLX](https://kam535.github.io/summer-dh-2025/collections/day3)
 - [June 5](https://kam535.github.io/summer-dh-2025/collections/day4)
 - [June 6: ALL](https://kam535.github.io/summer-dh-2025/modules/day5), [June 6: COLLX](https://kam535.github.io/summer-dh-2025/collections/day5)
