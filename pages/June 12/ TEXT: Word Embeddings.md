@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: ""
+subheadline: "June 12, 2025"
 title: "Word Embeddings"
 teaser: ""
 header: no
